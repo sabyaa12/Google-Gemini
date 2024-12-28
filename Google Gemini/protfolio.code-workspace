@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../protfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Google Gemini"
+	}
+}
